@@ -1,3 +1,3 @@
 # todo-application
  
-- 📫 View app here: (shruthitodo.ccbp.tech).
+- 📫 View app here: (https://shruthitodo.ccbp.tech/).
